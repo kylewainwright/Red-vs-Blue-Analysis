@@ -12,4 +12,4 @@ The following tools and techniques were utilized in this project:
 - CrackStation.net (Online web application for cracking non-salted hashes)
 - System Hardening
 
-<img src="https://github.com/kylewainwright/Red-vs-Blue-Analysis/blob/main/Project%202-%20KYLE%20WAINWRIGHT.pdf">
+The process of the project can been seen [here](https://github.com/kylewainwright/Red-vs-Blue-Analysis/blob/main/Project%202-%20KYLE%20WAINWRIGHT.pdf)
