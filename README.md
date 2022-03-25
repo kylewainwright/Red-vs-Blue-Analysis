@@ -12,4 +12,4 @@ The following tools and techniques were utilized in this project:
 - CrackStation.net (Online web application for cracking non-salted hashes)
 - System Hardening
 
-![alt text](Project 2- KYLE WAINWRIGHT.pdf)
+[Project Overview](Project 2- KYLE WAINWRIGHT.pdf)
